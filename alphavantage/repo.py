@@ -1,5 +1,3 @@
-import json
-
 from rest_client import RestClient
 import datetime
 from alphavantage.domain import CurrencyDaily
